@@ -18,4 +18,4 @@
 
 | Tool | Status | Wiki | Summary | Hands-On |
 |------|--------|------|---------|----------|
-| Argo | Graduated | Link | k8s-native GitOps toolset | Yes |
+| Argo | Graduated | [Link](https://github.com/cheuklau/cncf-ci-cd/wiki/Argo) | k8s-native GitOps toolset | Yes |
