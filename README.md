@@ -19,3 +19,4 @@
 | Tool | Status | Wiki | Summary | Hands-On |
 |------|--------|------|---------|----------|
 | Argo CD | Graduated | [Link](https://github.com/cheuklau/cncf-ci-cd/wiki/Argo-cd) | k8s-native GitOps CD | Yes |
+| Argo Events | Graduated | [Link](https://github.com/cheuklau/cncf-ci-cd/wiki/Argo-Events) | k8s-native event-based trigger | Yes |
